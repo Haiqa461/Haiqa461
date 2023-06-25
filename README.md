@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Haiqa Qaiset 
+- 👋 Hi, I’m Haiqa Qaiser
 - 👀 I’m interested in machine learning , Deep learning & AI 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on this profile with tech-savvies
