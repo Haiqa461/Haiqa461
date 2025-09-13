@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dart Flutter & AIOT.<br>👯 I’m looking to collaborate with tech savvies. <br>🤝 I’m looking for help with developers.<br>🌱 I’m currently studying at University of Engineering and Technology, Lahore (New Campus)<br>💬 Ask me about AIOT & Flutter.<br>⚡ I eager to learn and explore more about AIOT & Flutter.
+🔭 I’m currently working on AI Techniques.<br>👯 I’m looking to collaborate with tech savvies. <br>🤝 I’m looking for help with developers.<br>🌱 I’m currently studying at University of Engineering and Technology, Lahore (New Campus)<br>💬 Ask me about AI/ML.<br>⚡ I eager to learn and explore more about AI Agents.
 
 
 ## 🌐 Socials:
